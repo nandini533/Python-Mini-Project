@@ -1,0 +1,25 @@
+Weather,Area,Agent_Age
+cloudy,Metropolitian ,29.72400214784321
+cloudy,Other,29.447852760736197
+cloudy,Semi-Urban ,32.951219512195124
+cloudy,Urban ,29.098864395457582
+fog,Metropolitian ,29.496945365683366
+fog,Other,28.906832298136646
+fog,Semi-Urban ,32.83870967741935
+fog,Urban ,29.177090190915077
+sandstorms,Metropolitian ,29.936142565435308
+sandstorms,Other,28.16826923076923
+sandstorms,Semi-Urban ,34.0
+sandstorms,Urban ,28.342734518700183
+stormy,Metropolitian ,29.866884294523032
+stormy,Other,29.094240837696336
+stormy,Semi-Urban ,34.0
+stormy,Urban ,28.81079442086113
+sunny,Metropolitian ,29.845503922751963
+sunny,Other,29.009302325581395
+sunny,Semi-Urban ,25.63157894736842
+sunny,Urban ,29.162840363053924
+windy,Metropolitian ,29.79966948218876
+windy,Other,28.060606060606062
+windy,Semi-Urban ,34.90909090909091
+windy,Urban ,28.584457289659603
